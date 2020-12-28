@@ -151,7 +151,7 @@ Available flags:
 
 Examples:
 
-* [`wasmd`](./Makefile#L50-L55) is a generic, permissionless version using the `cosmos` bech32 prefix
+* [`wasmd`](./Makefile#L50-L55) is a generic, permissionless version using the `midas` bech32 prefix
 * [`gaiaflex`](./Makefile#L78-L87) is a generic, *permissioned* version using the `cosmos` bech32 prefix
 * [`coral`](./Makefile#L63-L71) is a permissionless version designed for a specific testnet, with a `coral` bech32 prefix
 
